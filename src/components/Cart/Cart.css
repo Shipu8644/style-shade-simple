@@ -1,3 +1,5 @@
+
 .cart{
-    display: fixed;
+    position: fixed;
+    margin-top: 20px;
 }
