@@ -29,9 +29,8 @@ const Cart = (props) => {
                         <tr>
                             <td>Tax</td>
                             <td>: {tax.toFixed(2)}</td>
-
                         </tr>
-                        <tr><td><hr style={{ width: '200%' }} /></td> </tr>
+                        <tr><td><hr style={{ width: '150%' }} /></td></tr>
                         <tr>
                             <td>Whole Price</td>
                             <td>: {grandTotal.toFixed(2)}</td>
